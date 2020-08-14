@@ -4,6 +4,7 @@ plugins {
     //id 'fabric-loom' version '0.2.7-SNAPSHOT' apply false
     id 'fabric-loom' version '0.4-SNAPSHOT' apply false
     id 'com.matthewprenger.cursegradle' version '1.4.0' apply false
+    id "com.wynprice.cursemaven" version "2.1.5" apply false
 }
 
 allprojects {
@@ -11,6 +12,7 @@ allprojects {
     apply plugin: 'maven-publish'
     apply plugin: 'fabric-loom'
     apply plugin: 'com.matthewprenger.cursegradle'
+    apply plugin: "com.wynprice.cursemaven"
 
     group = maven_group
     archivesBaseName = mod_id
