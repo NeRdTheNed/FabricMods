@@ -1,9 +1,0 @@
-repositories {
-    maven { url "http://server.bbkr.space:8081/artifactory/libs-release" }
-}
-
-dependencies {
-    modImplementation("io.github.cottonmc:StaticData:1.1.2")
-    include("io.github.cottonmc:StaticData:1.1.2")
-}
-

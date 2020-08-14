@@ -1,2 +1,0 @@
-- Adds support for inventory profiles.
-- Settings button now centers on scrollbar by default.

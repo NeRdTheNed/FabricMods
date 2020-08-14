@@ -1,9 +1,0 @@
-accessWidener v1 named
-accessible field net/minecraft/recipe/ShapedRecipe group Ljava/lang/String;
-accessible field net/minecraft/recipe/ShapelessRecipe group Ljava/lang/String;
-accessible method net/minecraft/client/item/ModelPredicateProviderRegistry register (Lnet/minecraft/item/Item;Lnet/minecraft/util/Identifier;Lnet/minecraft/client/item/ModelPredicateProvider;)V
-accessible class net/minecraft/client/item/ModelPredicateProviderRegistry$AngleRandomizer
-accessible method net/minecraft/client/item/ModelPredicateProviderRegistry$AngleRandomizer <init> ()V
-accessible field net/minecraft/client/item/ModelPredicateProviderRegistry$AngleRandomizer value D
-accessible method net/minecraft/client/item/ModelPredicateProviderRegistry$AngleRandomizer update (JD)V
-accessible method net/minecraft/client/item/ModelPredicateProviderRegistry$AngleRandomizer shouldUpdate (J)Z
